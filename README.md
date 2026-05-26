@@ -38,20 +38,20 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
 
 <!-- BADGES UNDER ABOUT ME -->
 <div>
-   <a href="https://visitorbadge.io/status?path=YOUR_GITHUB_USERNAME">
-    <img src="https://api.visitorbadge.io/api/visitors?path=YOUR_GITHUB_USERNAME&label=Profile%20Views&countColor=%238A2BE2" style="vertical-align: middle;"/>
+   <a href="https://visitorbadge.io/status?path=muhammadsaleem67">
+    <img src="https://api.visitorbadge.io/api/visitors?path=muhammadsaleem67&label=Profile%20Views&countColor=%238A2BE2" style="vertical-align: middle;"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img alt="Followers" src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
+  <a href="https://github.com/muhammadsaleem67">
+    <img alt="Followers" src="https://img.shields.io/github/followers/muhammadsaleem67?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img alt="Repos" src="https://badges.strrl.dev/repos/YOUR_GITHUB_USERNAME?color=%238A2BE2&style=for-the-badge&label=Repos">
+  <a href="https://github.com/muhammadsaleem67?tab=repositories">
+    <img alt="Repos" src="https://badges.strrl.dev/repos/muhammadsaleem67?color=%238A2BE2&style=for-the-badge&label=Repos">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img alt="Stars" src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
+  <a href="https://github.com/muhammadsaleem67">
+    <img alt="Stars" src="https://img.shields.io/github/stars/muhammadsaleem67?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/YOUR_GITHUB_USERNAME?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
+  <a href="https://github.com/muhammadsaleem67">
+    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/muhammadsaleem67?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
   </a>
 </div>
 
@@ -67,7 +67,7 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/muhammadsaleem67">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -149,7 +149,7 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
       <img src="https://img.shields.io/badge/UI%2FUX-Canva-00C4CC?style=flat-square"/>
       <img src="https://img.shields.io/badge/Strategy-E--Commerce-orange?style=flat-square"/>
       <br/><br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME">
+      <a href="https://github.com/muhammadsaleem67">
         <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -159,7 +159,7 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
       <img src="https://img.shields.io/badge/Web-Optimization-blue?style=flat-square"/>
       <img src="https://img.shields.io/badge/SEO-Keyword%20Strategy-brightgreen?style=flat-square"/>
       <br/><br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME">
+      <a href="https://github.com/muhammadsaleem67">
         <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -171,7 +171,7 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
       <img src="https://img.shields.io/badge/Networking-Cisco-049FD9?style=flat-square"/>
       <img src="https://img.shields.io/badge/Framework-OSI%20Model-lightgrey?style=flat-square"/>
       <br/><br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME">
+      <a href="https://github.com/muhammadsaleem67">
         <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -181,7 +181,7 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
       <img src="https://img.shields.io/badge/Core-C%2B%2B-00599C?style=flat-square"/>
       <img src="https://img.shields.io/badge/Studies-Software%20Eng-red?style=flat-square"/>
       <br/><br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME">
+      <a href="https://github.com/muhammadsaleem67">
         <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -195,8 +195,8 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
 
 | 🔗 Repository | 💬 What I did | ✅ Status |
 |-----------|--------------|----------|
-| [YOUR_GITHUB_USERNAME / project-one](https://github.com/YOUR_GITHUB_USERNAME) | Implementing clean logic patterns and interface styling | ✅ Done |
-| [YOUR_GITHUB_USERNAME / project-two](https://github.com/YOUR_GITHUB_USERNAME) | Integrating data structures and tracking performance modules | 🔄 Active |
+| [muhammadsaleem67 / project-one](https://github.com/muhammadsaleem67) | Implementing clean logic patterns and interface styling | ✅ Done |
+| [muhammadsaleem67 / project-two](https://github.com/muhammadsaleem67) | Integrating data structures and tracking performance modules | 🔄 Active |
 
 > 🔍 I actively track `good first issue` and `help wanted` tags. Always thrilled to review pull requests or jump into collaborative web projects!
 
@@ -206,9 +206,9 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaleem67&show_icons=true&theme=midnight-purple"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadsaleem67&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaleem67&layout=compact&theme=midnight-purple" />
 </p>
 
 ---
@@ -217,7 +217,7 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=false&no-bg=true&margin-w=10&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadsaleem67&theme=dracula&no-frame=false&no-bg=true&margin-w=10&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -226,7 +226,7 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
 ## 📈 My GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; height: auto;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaleem67&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; height: auto;" />
 </p>
 
 ---
@@ -234,7 +234,7 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
 <!-- GITHUB CONTRIBUTIONS (SNAKE GRAPH GENERATED VIA ACTIONS) -->
 ## 🐍 My GitHub Contributions
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake.svg)
+![snake gif](https://github.com/muhammadsaleem67/muhammadsaleem67/blob/output/github-snake.svg)
 
 ---
 
