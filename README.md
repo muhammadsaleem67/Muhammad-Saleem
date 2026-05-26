@@ -1,11 +1,3 @@
-Here is your completely personalized, advanced GitHub README code. It perfectly adapts Kiran's beautiful layout, typing animations, badges, side-by-side project tables, and dynamic statistics, but fully replaces every piece of information with your identity, tech stack, and background.
-
-### What to update before pasting:
-
-* Replace **`YOUR_GITHUB_USERNAME`** with your actual GitHub username (case-sensitive) across the badge, stats, and contribution URLs.
-* Update the `yourusername` placeholders in the **How to Reach Me** links to match your actual profile links.
-
-```markdown
 <div id="top"></div>
 
 <!-- HEADER CAPSULE -->
@@ -260,5 +252,3 @@ Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%"/>
 </div>
-
-```
