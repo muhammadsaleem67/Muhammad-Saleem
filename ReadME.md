@@ -2,7 +2,7 @@
 
 <!-- HEADER CAPSULE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kiran+Shams.;Computer+Science+Student;AI+Enthusiast;Frontend+Developer;Open+Source+Contributor;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Saleem.;Computer+Science+Student;Data+Analyst;Data Science+Enthusiast;DownloadPDF+Website+Books+Provider;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <!--
