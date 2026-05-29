@@ -1,254 +1,154 @@
 <div id="top"></div>
 
-<!-- HEADER CAPSULE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Saleem.;Computer+Science+Student;Full-Stack+Web+Developer;Tech+Strategist;Welcome+to+my+GitHub+Profile!" />
-</p>
-
-<!--
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=190&section=header&text=MUHAMMAD%20SALEEM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Web%20Developer%20|%20Tech%20Strategist&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=220&section=header&text=MUHAMMAD%20SALEEM&fontSize=50&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20|%20Business%20Intelligence%20|%20Java%20|%20AI&descAlignY=55&descAlign=50" width="100%" />
 </div>
--->
 
-<h4 align="center">
-Computer Science Student @ University of Sindh | Web Developer | Building Digital Platforms & Growth Strategies
-</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Intelligent+Data+Pipelines;Developing+Robust+Java+Applications;Extracting+Insights+with+Business+Intelligence;Leveraging+AI+for+Real-World+Solutions" />
+</p>
 
 ---
 
-<!-- ABOUT ME WITH PROFILE VIEWS ON THE SAME LINE -->
-<h2>👤 About Me</h2>
+<h2 align="center">👤 About Me</h2>
 
-<p>
-Hi, I'm <strong>Muhammad Saleem</strong> — a <strong>Computer Science Student</strong>, <strong>Web Developer</strong>, and <strong>Tech Strategist</strong>.
+<p align="center" style="font-size: 16px; color: #E2E8F0; max-width: 800px; margin: 0 auto;">
+I am a <strong>Computer Science Student</strong> at the University of Sindh, specializing in <strong>Data Science, Business Intelligence, Java Development, and Artificial Intelligence</strong>. My focus lies in engineering data-driven solutions, analyzing complex datasets, and deploying intelligent software models. I am passionate about bridging the gap between raw data and actionable business strategy through clean code and modern AI architectures.
 </p>
+<br>
 
-<p>
-I focus on building efficient digital systems that extend beyond standard websites — prioritizing clean software engineering practices, robust data structures, and optimized data flows. I enjoy blending hard technical development with strategic digital platform growth.
-</p>
-
-<p>
-Currently, I'm pursuing my bachelor's degree, sharpening my skills in networking and system design, and managing technical growth strategies for targeted digital portals to hit major market milestones.
-</p>
-
-<blockquote>
-💡 <i>"Dream it. Code it. Ship it."</i>
-</blockquote>
-
-<!-- BADGES UNDER ABOUT ME -->
-<div>
+<div align="center">
    <a href="https://visitorbadge.io/status?path=muhammadsaleem67">
-    <img src="https://api.visitorbadge.io/api/visitors?path=muhammadsaleem67&label=Profile%20Views&countColor=%238A2BE2" style="vertical-align: middle;"/>
+    <img src="https://api.visitorbadge.io/api/visitors?path=muhammadsaleem67&label=Views&countColor=%232563EB" style="vertical-align: middle;"/>
   </a>
   <a href="https://github.com/muhammadsaleem67">
-    <img alt="Followers" src="https://img.shields.io/github/followers/muhammadsaleem67?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/muhammadsaleem67?style=for-the-badge&color=%232563EB&logo=github&label=Followers">
   </a>
   <a href="https://github.com/muhammadsaleem67?tab=repositories">
-    <img alt="Repos" src="https://badges.strrl.dev/repos/muhammadsaleem67?color=%238A2BE2&style=for-the-badge&label=Repos">
+    <img alt="Repos" src="https://badges.strrl.dev/repos/muhammadsaleem67?color=%232563EB&style=for-the-badge&label=Repos">
   </a>
   <a href="https://github.com/muhammadsaleem67">
-    <img alt="Stars" src="https://img.shields.io/github/stars/muhammadsaleem67?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
+    <img alt="Stars" src="https://img.shields.io/github/stars/muhammadsaleem67?style=for-the-badge&color=%232563EB&logo=github&label=Stars">
   </a>
   <a href="https://github.com/muhammadsaleem67">
-    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/muhammadsaleem67?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
+    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/muhammadsaleem67?color=%2300FF7F&style=for-the-badge&label=Commits+Today">
   </a>
 </div>
 
 ---
 
-<!-- HOW TO REACH ME -->
-## 📫 How to Reach Me
+<h2 align="center">🧰 Premium Tech Stack</h2>
 
-<div>
-  <a href="https://www.linkedin.com/in/yourusername/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/muhammadsaleem67">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<!-- LANGUAGES I USE -->
-## 🧰 Languages I Use
-
-<div>
-  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
-</div>
-
----
-
-<!-- FRAMEWORKS I USE -->
-## 🧩 Frameworks & Libraries
-
-<div>
-  <a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-</div>
-
----
-
-<!-- TOOLS I USE -->
-## ⚒️ Tools I Use
-
-<div>
-  <a><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div>
-  <a><img src="https://img.shields.io/badge/Advanced%20Data%20Structures-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Cloud%20Platforms-00897B?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Generative%20AI-4AA0E2?style=for-the-badge&logo=openai&logoColor=white"/></a>
-</div>
-
----
-
-<!-- MY CODING JOURNEY -->
-## 💻 My Coding Journey
-
-<details>
-  <summary>Click to read my journey</summary>
-
+<div align="center">
   <br>
-  <p align="center" style="font-size:14px;">
-  My exploration into technology truly accelerated when I began my Computer Science degree at the University of Sindh. Diving into structured academic topics opened my eyes to how software layers, complex algorithms, and networks communicate under the hood.
+  <p><strong>Data Science & Business Intelligence</strong></p>
+  <img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-1E40AF?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-2563EB?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dynamics_365-1E40AF?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  
   <br><br>
-  Alongside my studies, I started developing concrete web applications and analyzing digital platform scaling strategies. Learning to simulate complex computer networks and applying rigorous data architecture models helped bridge the gap between abstract computer science concepts and functional software systems.
+  <p><strong>Software Engineering & Java Development</strong></p>
+  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-1E40AF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-1E40AF?style=for-the-badge&logo=mysql&logoColor=white"/>
+
   <br><br>
-  Today, I actively seek out intersections between programming, system layouts, and business optimization—continuously pushing to build software tools that deliver visible real-world impacts.
-  </p>
-</details>
+  <p><strong>Artificial Intelligence & Cloud</strong></p>
+  <img src="https://img.shields.io/badge/OpenAI-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-1E40AF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-2563EB?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-1E40AF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</div>
 
 ---
 
-<!-- RECENT WORK — SIDE-BY-SIDE PROJECTS -->
-## 🚀 Recent Projects
+<h2 align="center">🚀 Featured Initiatives & Projects</h2>
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Mobile Accessories E-Commerce Platform</h3>
-      <p>Formulated a comprehensive e-commerce business model, structured brand outline, and clean visual identity layouts optimized for digital accessory storefronts.</p>
-      <img src="https://img.shields.io/badge/UI%2FUX-Canva-00C4CC?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Strategy-E--Commerce-orange?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/muhammadsaleem67">
-        <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <h3>📊 Financial Alpha Generation</h3>
+      <p>Building and modeling financial algorithms as part of the International Quant Championship via the WorldQuant BRAIN platform.</p>
+      <img src="https://img.shields.io/badge/Data_Science-2563EB?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Quantitative_Analysis-1E40AF?style=for-the-badge"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Digital Optimization Portals</h3>
-      <p>Architecting backend SEO, strategic search visibility layers, and data-driven indexing mechanisms for real-world job systems and technology directories.</p>
-      <img src="https://img.shields.io/badge/Web-Optimization-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/SEO-Keyword%20Strategy-brightgreen?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/muhammadsaleem67">
-        <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <h3>🤖 Enterprise AI Integrations</h3>
+      <p>Implementing Generative AI methodologies and exploring cloud-based enterprise resource planning through specialized masterclasses.</p>
+      <img src="https://img.shields.io/badge/Azure_AI-2563EB?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Dynamics_365-1E40AF?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔧 Network Topology Simulations</h3>
-      <p>Modeled, configured, and troubleshot complex computer networks utilizing Cisco Packet Tracer, verifying traffic behaviors across distinct OSI layers.</p>
-      <img src="https://img.shields.io/badge/Networking-Cisco-049FD9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Framework-OSI%20Model-lightgrey?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/muhammadsaleem67">
-        <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <h3>📈 Kaggle Machine Learning Models</h3>
+      <p>Developing predictive models and participating in global community coding competitions using core Python data libraries.</p>
+      <img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ Academic Architecture Core</h3>
-      <p>A repository containing clean solutions to software engineering paradigms, testing workflows, structural assignments, and data structure configurations.</p>
-      <img src="https://img.shields.io/badge/Core-C%2B%2B-00599C?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Studies-Software%20Eng-red?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/muhammadsaleem67">
-        <img src="https://img.shields.io/badge/View%20Repo-%238A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <h3>☕ Core Java & OOP Architectures</h3>
+      <p>Designing robust backend systems utilizing core Java concepts, object-oriented programming, and optimized data structures.</p>
+      <img src="https://img.shields.io/badge/Java_Development-2563EB?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Software_Engineering-1E40AF?style=for-the-badge"/>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- OPEN SOURCE CONTRIBUTIONS -->
-## 🌐 Open Source & Tech Activity
+<h2 align="center">🎓 Professional Certifications</h2>
 
-| 🔗 Repository | 💬 What I did | ✅ Status |
-|-----------|--------------|----------|
-| [muhammadsaleem67 / project-one](https://github.com/muhammadsaleem67) | Implementing clean logic patterns and interface styling | ✅ Done |
-| [muhammadsaleem67 / project-two](https://github.com/muhammadsaleem67) | Integrating data structures and tracking performance modules | 🔄 Active |
-
-> 🔍 I actively track `good first issue` and `help wanted` tags. Always thrilled to review pull requests or jump into collaborative web projects!
+<div align="center">
+  <img src="https://img.shields.io/badge/Introduction_to_Data_Science-Cisco_Academy-2563EB?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Microsoft_Dynamics_365_Finance-Masterclass-1E40AF?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Generative_AI_Masterclass-Azure-2563EB?style=for-the-badge&logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/Network_Track-Huawei_ICT_Competition-1E40AF?style=for-the-badge&logo=huawei" />
+</div>
 
 ---
 
-<!-- GITHUB STATS -->
-## ⚡ GitHub Stats
+<h2 align="center">⚡ Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaleem67&show_icons=true&theme=midnight-purple"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadsaleem67&theme=midnight-purple"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaleem67&layout=compact&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaleem67&show_icons=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=00FF7F&border_color=1E40AF&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaleem67&layout=compact&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&border_color=1E40AF&hide_border=false" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/muhammadsaleem67/muhammadsaleem67/blob/output/github-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/muhammadsaleem67/muhammadsaleem67/blob/output/github-snake.svg">
+  </picture>
 </p>
 
 ---
 
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
+<h2 align="center">📫 Let's Connect</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadsaleem67&theme=dracula&no-frame=false&no-bg=true&margin-w=10&margin-h=15" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourusername/">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&borderColor=1E40AF" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8&borderColor=1E40AF" />
+  </a>
+  <a href="https://github.com/muhammadsaleem67">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&borderColor=1E40AF" />
+  </a>
+</div>
 
----
+<br>
 
-<!-- GITHUB CONTRIBUTION GRAPH -->
-## 📈 My GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaleem67&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; height: auto;" />
-</p>
-
----
-
-<!-- GITHUB CONTRIBUTIONS (SNAKE GRAPH GENERATED VIA ACTIONS) -->
-## 🐍 My GitHub Contributions
-
-![snake gif](https://github.com/muhammadsaleem67/muhammadsaleem67/blob/output/github-snake.svg)
-
----
-
-<h3 align="center">🤝 Open for collaborations — star, fork, follow, and let's build something epic!</h3>
-
----
-
-<!-- FOOTER & BACK TO TOP -->
 <p align="right">
   <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20Top%20⬆️-8A2BE2?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Back%20to%20Top%20⬆️-2563EB?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer" width="100%"/>
 </div>
